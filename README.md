@@ -1,1 +1,1 @@
-Source files for [neilcford.github.io]([http://neilcford.uk](https://neilcford.github.io)). Based on [Jekyll Now]((https://github.com/barryclark/jekyll-now)) and hosted on [Github Pages](https://docs.github.com/en/pages).
+Source files for [neilcford.github.io]([http://neilcford.uk](https://neilcford.github.io)). Based on [Jekyll Now](https://github.com/barryclark/jekyll-now) and hosted on [Github Pages](https://docs.github.com/en/pages).
