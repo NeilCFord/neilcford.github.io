@@ -6,7 +6,7 @@
 name: Neil Ford
 
 # Short bio or description (displayed in the header)
-description: freelance it technician, photographer, event organiser, community manager
+description: Thoughts on technology, tabletop gaming and other random stuff
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/NeilCFord/neilcford.github.io/refs/heads/master/images/neilcford.png
@@ -16,20 +16,20 @@ avatar: https://raw.githubusercontent.com/NeilCFord/neilcford.github.io/refs/hea
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: neilcford
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+#footer-links:
+#  dribbble:
+#  email:
+#  facebook:
+#  flickr:
+#  github: neilcford
+#  instagram:
+#  linkedin:
+#  pinterest:
+#  rss: # just type anything here for a working RSS icon
+#  twitter: 
+#  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+#  youtube: # channel/<your_long_string> or user/<user-name>
+#  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
