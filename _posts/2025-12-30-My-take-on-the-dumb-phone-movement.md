@@ -8,13 +8,13 @@ Now, don't get me wrong, I'm all for reducing the reliance on one's smartphone. 
 
 One common feature of these videos or articles, along with deleting nearly all the apps off the device, is to use something like [Blank Spaces](https://www.blankspaces.app) to replace the usual icons with descriptive text labels in order to make things less enticing. 
 
-![Part of a smartphone screen showing apps as text links rather than icons](images/DumbPhone01.jpeg)
+![Part of a smartphone screen showing apps as text links rather than icons](https://blog.neilcford.uk/images/DumbPhone01.jpeg)
 
 I seriously considered giving this a go, but the number of apps that I use regular is perhaps on the higher side, so I looked for other options. 
 
 I've actually had a fairly minimalist setup on my iPhone for quite some time, inspired by a combination of a [video](https://youtu.be/wjdFm9A89pY) from Peter McKinnon and reading [Digital Minimalism](https://uk.bookshop.org/a/15347/9780241453575) by [Cal Newport](https://calnewport.com). 
 
-![Minimalist iPhone home screen with one widget stack, one app icon and one folder of icons in the dock. Dark background to make etc dock fade in to it.](images/DumbPhone02.jpeg)
+![Minimalist iPhone home screen with one widget stack, one app icon and one folder of icons in the dock. Dark background to make etc dock fade in to it.](https://blog.neilcford.uk/images/DumbPhone02.jpeg)
 
 It consisted of a single Home Screen featuring a single widget stack (calendar, reminders, batteries) and a single folder of regularly used apps, 18 in total) in the Dock. Everything else was in the App Library and could be searched for if required. The background was designed to make the dock fade in to it when in Dark mode, so that it looked like there was just the folder there. All icon labels were turned off. The above screenshot shows the addition of Discord to the Home Screen. This was because Discord was the designated communication platform for an event I was volunteering at. I put it there for ease of access during the event and removed it, and deleted the app from my phone, immediately after the event was over.
 
@@ -22,7 +22,7 @@ This minimalist design was combined with making use of the Focus Modes (introduc
 
 This setup has been working well for 3 years. But iOS 26 introduced some new design elements that actually made it a little harder to "hide" the Dock, and that, combined with the itch to change things up a little, had me thinking of what to tweak. Then I came across a video on YouTube, [iOS 26: My Home Screen Setup!](https://youtu.be/8UyAxDRt48w?si=Tji0Hds3L98srU06), that sowed the germ of an idea. A little bit of trial and error and I now have a new setup.
 
-![Combination of three iPhone screenshots showing minimalist design with dedicated widgets page and two screens of app icons, 2 columns, 8 icons per screen, with 2 additional icons in the dock.](images/DumbPhone03.jpeg)
+![Combination of three iPhone screenshots showing minimalist design with dedicated widgets page and two screens of app icons, 2 columns, 8 icons per screen, with 2 additional icons in the dock.](https://blog.neilcford.uk/images/DumbPhone03.jpeg)
 
 The key element is the use of iOS 26's Tinted Icons feature, which can remove all the colour from the app icons, whilst still allowing the apps to work in colour. One of the common tweaks to make a phone less appealing is to turn it greyscale, which is great, accept it can affect the apps as well, and that doesn't really work with things like Maps (where colour is used to indicate traffic conditions) and Photos. Removing the colour from the icons is a good compromise, for me at least.
 
@@ -35,7 +35,7 @@ This might look more cluttered, but in actual fact it results in less swipes and
 All of this, with the addition of using a pocket notebook to [Bullet Journal](https://bulletjournal.com) (more on that in another post), hopefully means that I will spend less time on my phone and more time focused on other activities.
 
 
-###Further Reading
+### Further Reading
 If you'd like to read up more on how our digital world might be affecting our attention, cognitive abilities and even our energy levels, I would heartedly recommend the following books:
 
 * [Stolen Focus](https://uk.bookshop.org/a/15347/9781526620217) by Johann Hari
